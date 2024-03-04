@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.Python
+pip-lock.txt
+pipfile.lock
+
+# IDE settings
+.vscode/
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Database files
+*.sqlite3
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.swp
+*.bak
+
